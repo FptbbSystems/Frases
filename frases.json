@@ -1,8 +1,8 @@
 {
-  frases: [
-    '$1 matou $2 porque jogou sua escova de dentes na privada',
-    '$1 matou $2 porque falou bolacha',
-    '$1 matou $2 porque escondeu todas as suas roupas',
-    '$1 matou $2 porque colocou pimenta na sua comida'
+  "frases": [
+    "$1 matou $2 porque jogou sua escova de dentes na privada",
+    "$1 matou $2 porque falou bolacha",
+    "$1 matou $2 porque escondeu todas as suas roupas",
+    "$1 matou $2 porque colocou pimenta na sua comida"
   ]
 }
